@@ -1,1 +1,3 @@
-# firstdevops
+# maven-project
+
+Simple Maven Project
